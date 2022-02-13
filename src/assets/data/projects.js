@@ -29,16 +29,16 @@ const projects = [
   },
   {
     id: uuidv4(),
-    name: "Cavin's Portfolio",
+    name: 'Hello world',
     desc:
-      'A portfolio for Cavin jr. A artist from New york city. The portfolio is made using ReactJs and GatsbyJs.',
+      'Hello world Hello world Hello world Hello world Hello world Hello world Hello world Hello world Hello world Hello world.',
     img: CavinImg,
   },
   {
     id: uuidv4(),
-    name: 'Tracking Soft',
+    name: 'Hello world',
     desc:
-      'A tracking website that will show the performance of the website. Also you will get some useful advice to improve the performance.',
+      'Hello world Hello world Hello world Hello world Hello world Hello world Hello world Hello world Hello world Hello world.',
     img: ProjectImg,
   },
 ];
