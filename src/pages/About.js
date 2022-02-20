@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import PText from '../components/PText';
 import Button from '../components/Button';
-import AboutImg from '../assets/images/about-page-img.png';
+import AboutImg from '../assets/images/saif09.jpg';
 import AboutInfoItem from '../components/AboutInfoItem';
 import ContactBanner from '../components/ContactBanner';
 
@@ -132,13 +132,7 @@ export default function About() {
 
               <AboutInfoItem
                 title="FrontEnd"
-                items={[
-                  'HTML5',
-                  'CSS3',
-                  'JavaScript(ES6)',
-                  'REACT Js',
-                  'Bootstrap 5',
-                ]}
+                items={['CSS3', 'JavaScript(ES6)', 'REACT Js', 'Bootstrap 5']}
               />
               <AboutInfoItem
                 title="BackEnd"

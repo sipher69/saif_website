@@ -1,25 +1,25 @@
 const testimonials = [
   {
     id: 1,
-    name: 'ROjer',
+    name: 'Nizam',
     title: 'CEO',
-    org: 'ROJER.com',
+    org: 'Nizam.com',
     desc:
       'gufurbgfrihdrdxtfygyujokm nbvcdre5r6t7y8ujoikmn bvcdtrf6t7y8u9ikmkn bhvgftrt67yu89ikomnhbvgftr6t76y8ujnhbvgfdcfvghbu',
   },
   {
     id: 2,
-    name: 'ROjer',
+    name: 'Saif',
     title: 'CEO',
-    org: 'ROJER.com',
+    org: 'Saif.com',
     desc:
       'gufurbgfrihdrdxtfygyujokm nbvcdre5r6t7y8ujoikmn bvcdtrf6t7y8u9ikmkn bhvgftrt67yu89ikomnhbvgftr6t76y8ujnhbvgfdcfvghbu',
   },
   {
     id: 3,
-    name: 'ROjer',
+    name: 'Ali',
     title: 'CEO',
-    org: 'ROJER.com',
+    org: 'Ali.com',
     desc:
       'gufurbgfrihdrdxtfygyujokm nbvcdre5r6t7y8ujoikmn bvcdtrf6t7y8u9ikmkn bhvgftrt67yu89ikomnhbvgftr6t76y8ujnhbvgfdcfvghbu',
   },
